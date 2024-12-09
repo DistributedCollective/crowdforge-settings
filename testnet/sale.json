@@ -1,0 +1,113 @@
+[
+  {
+    "stageNumber": 1,
+    "tokensAllocated": 70000000,
+    "BOSPrice": 0.0072
+  },
+  {
+    "stageNumber": 2,
+    "tokensAllocated": 64354839,
+    "BOSPrice": 0.007455
+  },
+  {
+    "stageNumber": 3,
+    "tokensAllocated": 59062500,
+    "BOSPrice": 0.007695
+  },
+  {
+    "stageNumber": 4,
+    "tokensAllocated": 54090909,
+    "BOSPrice": 0.007936
+  },
+  {
+    "stageNumber": 5,
+    "tokensAllocated": 49411765,
+    "BOSPrice": 0.008176
+  },
+  {
+    "stageNumber": 6,
+    "tokensAllocated": 45000000,
+    "BOSPrice": 0.008417
+  },
+  {
+    "stageNumber": 7,
+    "tokensAllocated": 40833333,
+    "BOSPrice": 0.008657
+  },
+  {
+    "stageNumber": 8,
+    "tokensAllocated": 36891892,
+    "BOSPrice": 0.008898
+  },
+  {
+    "stageNumber": 9,
+    "tokensAllocated": 33157895,
+    "BOSPrice": 0.009138
+  },
+  {
+    "stageNumber": 10,
+    "tokensAllocated": 29615385,
+    "BOSPrice": 0.009379
+  },
+  {
+    "stageNumber": 11,
+    "tokensAllocated": 26250000,
+    "BOSPrice": 0.009619
+  },
+  {
+    "stageNumber": 12,
+    "tokensAllocated": 28170732,
+    "BOSPrice": 0.009860
+  },
+  {
+    "stageNumber": 13,
+    "tokensAllocated": 30000000,
+    "BOSPrice": 0.010100
+  },
+  {
+    "stageNumber": 14,
+    "tokensAllocated": 31744186,
+    "BOSPrice": 0.010340
+  },
+  {
+    "stageNumber": 15,
+    "tokensAllocated": 33409091,
+    "BOSPrice": 0.010581
+  },
+  {
+    "stageNumber": 16,
+    "tokensAllocated": 35000000,
+    "BOSPrice": 0.010821
+  },
+  {
+    "stageNumber": 17,
+    "tokensAllocated": 36521739,
+    "BOSPrice": 0.011062
+  },
+  {
+    "stageNumber": 18,
+    "tokensAllocated": 37978723,
+    "BOSPrice": 0.011302
+  },
+  {
+    "stageNumber": 19,
+    "tokensAllocated": 39375000,
+    "BOSPrice": 0.011543
+  },
+  {
+    "stageNumber": 20,
+    "tokensAllocated": 40714286,
+    "BOSPrice": 0.011783
+  },
+  {
+    "stageNumber": 21,
+    "tokensAllocated": 42000000,
+    "BOSPrice": 0.012024
+  },
+  {
+    "stageNumber": 22,
+    "tokensAllocated": 21000000,
+    "BOSPrice": 0.012024,
+    "reserve": true
+  }
+]
