@@ -1,62 +1,62 @@
 {
   "BTC": {
-    "min": 0.001,
+    "min": 0.00108,
     "fee": 0.00005
   },
   "RBTC": {
-    "min": 0.001,
+    "min": 0.00104,
     "fee": 0.00001
   },
   "ETH": {
-    "min": 0.03,
+    "min": 0.032,
     "fee": 0.003
   },
   "ETH_WBTC": {
-    "min": 0.001,
+    "min": 0.00113,
     "fee": 0.0001
   },
   "ETH_TBTC": {
-    "min": 0.001,
+    "min": 0.00113,
     "fee": 0.0001
   },
   "ETH_WETH": {
-    "min": 0.03,
+    "min": 0.032,
     "fee": 0.003
   },
   "ETH_USDT": {
-    "min": 100,
+    "min": 110,
     "fee": 10
   },
   "ETH_USDC": {
-    "min": 100,
+    "min": 110,
     "fee": 10
   },
   "ETH_DAI": {
-    "min": 100,
+    "min": 110,
     "fee": 10
   },
   "BNB": {
-    "min": 0.15,
+    "min": 0.1555,
     "fee": 0.0016
   },
   "BNB_USDT": {
-    "min": 100,
+    "min": 101,
     "fee": 1
   },
   "BNB_USDC": {
-    "min": 100,
+    "min": 101,
     "fee": 1
   },
   "BNB_DAI": {
-    "min": 100,
+    "min": 101,
     "fee": 1
   },
   "ADA": {
-    "min": 100,
+    "min": 101,
     "fee": 1
   },
   "SOL": {
-    "min": 0.4,
+    "min": 0.41,
     "fee": 0.01
   }
 }
