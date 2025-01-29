@@ -2,16 +2,16 @@
   {
     "BOSPrice": 0.1,
     "stageNumber": 1,
-    "tokensAllocated": 10_000
+    "tokensAllocated": 10000
   },
   {
     "BOSPrice": 0.5,
     "stageNumber": 2,
-    "tokensAllocated": 25_000
+    "tokensAllocated": 25000
   },
   {
     "BOSPrice": 1.0,
     "stageNumber": 3,
-    "tokensAllocated": 50_000
+    "tokensAllocated": 50000
   }
 ]
