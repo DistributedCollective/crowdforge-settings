@@ -13,5 +13,11 @@
     "BOSPrice": 1.0,
     "stageNumber": 3,
     "tokensAllocated": 50000
+  },
+  {
+    "BOSPrice": 1.0,
+    "stageNumber": 4,
+    "tokensAllocated": 10000,
+    "reserve": true
   }
 ]
