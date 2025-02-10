@@ -58,5 +58,49 @@
   "SOL": {
     "min": 0.4,
     "fee": 0
+  },
+  "ARB": {
+    "min": 200,
+    "fee": 0
+  },
+  "ARB_WBTC": {
+    "min": 0.001,
+    "fee": 0
+  },
+  "ARB_TBTC": {
+    "min": 0.001,
+    "fee": 0
+  },
+  "ARB_WETH": {
+    "min": 0.03,
+    "fee": 0
+  },
+  "ARB_USDT": {
+    "min": 100,
+    "fee": 0
+  },
+  "ARB_USDC": {
+    "min": 100,
+    "fee": 0
+  },
+  "ARB_DAI": {
+    "min": 100,
+    "fee": 0
+  },
+  "POLYGON": {
+    "min": 200,
+    "fee": 0
+  },
+  "POLYGON_USDT": {
+    "min": 100,
+    "fee": 0
+  },
+  "POLYGON_USDC": {
+    "min": 100,
+    "fee": 0
+  },
+  "POLYGON_WETH": {
+    "min": 0.03,
+    "fee": 0
   }
 }
