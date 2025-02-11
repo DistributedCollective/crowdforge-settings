@@ -1,90 +1,58 @@
 {
   "BTC": {
-    "min": 0.001,
+    "min": 0.0108,
     "fee": 0
   },
   "RBTC": {
-    "min": 0.001,
+    "min": 0.00104,
     "fee": 0
   },
   "ETH": {
-    "min": 0.03,
+    "min": 0.032,
     "fee": 0
   },
   "ETH_WBTC": {
-    "min": 0.001,
-    "fee": 0
-  },
-  "ETH_TBTC": {
-    "min": 0.001,
-    "fee": 0
-  },
-  "ETH_WETH": {
-    "min": 0.03,
+    "min": 0.00113,
     "fee": 0
   },
   "ETH_USDT": {
-    "min": 100,
+    "min": 110,
     "fee": 0
   },
   "ETH_USDC": {
-    "min": 100,
+    "min": 110,
     "fee": 0
   },
   "ETH_DAI": {
-    "min": 100,
+    "min": 110,
     "fee": 0
   },
   "BNB": {
-    "min": 0.15,
+    "min": 0.1555,
     "fee": 0
   },
   "BNB_USDT": {
-    "min": 100,
+    "min": 101,
     "fee": 0
   },
   "BNB_USDC": {
-    "min": 100,
+    "min": 101,
     "fee": 0
   },
   "BNB_DAI": {
-    "min": 100,
+    "min": 101,
     "fee": 0
   },
   "ADA": {
-    "min": 100,
+    "min": 101,
     "fee": 0
   },
   "SOL": {
-    "min": 0.4,
+    "min": 0.41,
     "fee": 0
   },
   "ARB": {
-    "min": 200,
-    "fee": 0
-  },
-  "ARB_WBTC": {
-    "min": 0.001,
-    "fee": 0
-  },
-  "ARB_TBTC": {
-    "min": 0.001,
-    "fee": 0
-  },
-  "ARB_WETH": {
-    "min": 0.03,
-    "fee": 0
-  },
-  "ARB_USDT": {
-    "min": 100,
-    "fee": 0
-  },
-  "ARB_USDC": {
-    "min": 100,
-    "fee": 0
-  },
-  "ARB_DAI": {
-    "min": 100,
+    "min": 1,
     "fee": 0
   },
   "POLYGON": {
@@ -92,15 +60,7 @@
     "fee": 0
   },
   "POLYGON_USDT": {
-    "min": 100,
-    "fee": 0
-  },
-  "POLYGON_USDC": {
-    "min": 100,
-    "fee": 0
-  },
-  "POLYGON_WETH": {
-    "min": 0.03,
+    "min": 101,
     "fee": 0
   }
 }
