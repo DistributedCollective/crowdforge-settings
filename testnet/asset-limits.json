@@ -55,6 +55,10 @@
     "min": 1,
     "fee": 0
   },
+  "ARB_AETH": {
+    "min": 0.032,
+    "fee": 0
+  },
   "POLYGON": {
     "min": 200,
     "fee": 0
