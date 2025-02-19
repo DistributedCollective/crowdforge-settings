@@ -1,23 +1,18 @@
 [
   {
     "stageNumber": 1,
-    "tokensAllocated": 350000,
-    "BOSPrice": 0.007214
+    "tokensAllocated": 10000,
+    "BOSPrice": 0.022
   },
   {
     "stageNumber": 2,
-    "tokensAllocated": 238009,
-    "BOSPrice": 0.007455
-  },
-  {
-    "stageNumber": 3,
-    "tokensAllocated": 65000,
-    "BOSPrice": 0.007695
+    "tokensAllocated": 5000,
+    "BOSPrice": 0.044
   },
   {
     "reserve": true,
-    "stageNumber": 4,
-    "tokensAllocated": 250000,
-    "BOSPrice": 0.01
+    "stageNumber": 3,
+    "tokensAllocated": 50000,
+    "BOSPrice": 0.044
   }
 ]
