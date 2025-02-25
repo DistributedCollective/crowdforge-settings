@@ -1,13 +1,13 @@
 [
   {
     "stageNumber": 1,
-    "tokensAllocated": 35000,
-    "BOSPrice": 0.007214
+    "tokensAllocated": 350000,
+    "BOSPrice": 0.00888
   },
   {
     "stageNumber": 2,
     "tokensAllocated": 35000,
-    "BOSPrice": 0.007455
+    "BOSPrice": 0.00898
   },
   {
     "stageNumber": 3,
