@@ -56,103 +56,103 @@
   },
   {
     "stageNumber": 12,
-    "tokensAllocated": 35700000,
+    "tokensAllocated": 25200000,
     "BOSPrice": 0.0092
   },
   {
     "stageNumber": 13,
-    "tokensAllocated": 33600000,
+    "tokensAllocated": 25200000,
     "BOSPrice": 0.0093
   },
   {
     "stageNumber": 14,
-    "tokensAllocated": 33600000,
-    "BOSPrice": 0.0095
+    "tokensAllocated": 25200000,
+    "BOSPrice": 0.0094
   },
   {
     "stageNumber": 15,
-    "tokensAllocated": 31500000,
-    "BOSPrice": 0.0098
+    "tokensAllocated": 25200000,
+    "BOSPrice": 0.0095
   },
   {
     "stageNumber": 16,
-    "tokensAllocated": 31500000,
-    "BOSPrice": 0.0099
+    "tokensAllocated": 25200000,
+    "BOSPrice": 0.0096
   },
   {
     "stageNumber": 17,
-    "tokensAllocated": 29400000,
-    "BOSPrice": 0.0101
+    "tokensAllocated": 25200000,
+    "BOSPrice": 0.0097
   },
   {
     "stageNumber": 18,
-    "tokensAllocated": 29400000,
-    "BOSPrice": 0.0103
+    "tokensAllocated": 25200000,
+    "BOSPrice": 0.0098
   },
   {
     "stageNumber": 19,
-    "tokensAllocated": 27300000,
-    "BOSPrice": 0.0104
+    "tokensAllocated": 25200000,
+    "BOSPrice": 0.0099
   },
   {
     "stageNumber": 20,
-    "tokensAllocated": 27300000,
-    "BOSPrice": 0.0105
+    "tokensAllocated": 25200000,
+    "BOSPrice": 0.01
   },
   {
     "stageNumber": 21,
-    "tokensAllocated": 27300000,
-    "BOSPrice": 0.0107
+    "tokensAllocated": 25200000,
+    "BOSPrice": 0.0101
   },
   {
     "stageNumber": 22,
     "tokensAllocated": 25200000,
-    "BOSPrice": 0.0108
+    "BOSPrice": 0.0102
   },
   {
     "stageNumber": 23,
     "tokensAllocated": 25200000,
-    "BOSPrice": 0.0109
+    "BOSPrice": 0.0103
   },
   {
     "stageNumber": 24,
     "tokensAllocated": 23100000,
-    "BOSPrice": 0.0110
+    "BOSPrice": 0.0104
   },
   {
     "stageNumber": 25,
     "tokensAllocated": 23100000,
-    "BOSPrice": 0.0111
+    "BOSPrice": 0.0105
   },
   {
     "stageNumber": 26,
     "tokensAllocated": 21000000,
-    "BOSPrice": 0.0112
+    "BOSPrice": 0.0106
   },
   {
     "stageNumber": 27,
     "tokensAllocated": 21000000,
-    "BOSPrice": 0.0114
+    "BOSPrice": 0.0107
   },
   {
     "stageNumber": 28,
     "tokensAllocated": 18900000,
-    "BOSPrice": 0.0116
+    "BOSPrice": 0.0108
   },
   {
     "stageNumber": 29,
     "tokensAllocated": 18900000,
-    "BOSPrice": 0.0117
+    "BOSPrice": 0.0109
   },
   {
     "stageNumber": 30,
     "tokensAllocated": 18900000,
-    "BOSPrice": 0.0119
+    "BOSPrice": 0.0110
   },
   {
     "stageNumber": 31,
     "tokensAllocated": 10000000,
-    "BOSPrice": 0.0119,
+    "BOSPrice": 0.0110,
     "reserve": true
   }
 ]
